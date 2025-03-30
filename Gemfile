@@ -36,5 +36,3 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 #github
 gem "github-pages", group: :jekyll_plugins
 
-gem "jekyll-seo-tag"
-gem "jekyll-sitemap"
